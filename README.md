@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Humayra Islam</h1>
-<h3 align="center">You can learn C++,Java,Machine Learning ,also Python.</h3>
+<h3 align="center">A passionate with a strong interest in Machine Learning & Data Science Engineer.</h3>
 <img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humayraislamsoha&label=Profile%20views&color=0e75b6&style=flat" alt="humayraislamsoha" /> </p>
