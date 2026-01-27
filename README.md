@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=humayraislamsoha&label=Profile%20views&color=0e75b6&style=flat" alt="humayraislamsoha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/humayraislam0#:~:text=humayra%20islam-,%40humayraislam0,-get%20verified" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/humayraislam0#:~:text=humayra%20islam-,%40humayraislam0,-get%20verified?logo=twitter&style=for-the-badge" alt="https://x.com/humayraislam0#:~:text=humayra%20islam-,%40humayraislam0,-get%20verified" /></a> </p>
+
 
 - 🌱 I’m currently learning **Python,Java,C & C++**
 
