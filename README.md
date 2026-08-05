@@ -8,25 +8,26 @@
 
 <img align="center" alt="coding" width="300" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7FD9B6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Humayra+Islam+%F0%9F%91%8B;Machine+Learning+%26+Data+Science;Aspiring+ML+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7FD9B6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Humayra+Islam+%F0%9F%91%8B;Machine+Learning+%7C+Computer+Vision+%7C+Python;Aspiring+ML+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
+
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-Data%20Science-C45733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Engineer%20(Aspiring)-C45733?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSE-Student-7FD9B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Python-E8B25C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Computer%20Vision-E8B25C?style=for-the-badge" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 🎓 CSE student with a passionate interest in **Machine Learning** & **Data Science**
-- 🌱 Currently learning **Python, Java, C, and C++**
-- 💬 Ask me about **Python**
-- ⚡ Fun fact: **I think I am funny**
-- 💬 Always open to collaboration and learning from others in ML/AI
+- 🎓 CSE student, currently building a solid foundation in **Machine Learning** and **Computer Vision**
+- 🧩 Working through a structured, consistent daily ML learning routine — fundamentals first, depth over speed
+- 🚀 Building toward a full **AI Engineering** skillset — LangChain, RAG, and Vector Databases are next on the roadmap
+- 🌱 Currently sharpening **Python** and applied ML fundamentals
+- 💬 Always open to internship opportunities, collaboration, and learning from others in ML/AI
 
 ---
 
@@ -34,7 +35,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python%20%26%20ML%20Fundamentals-In%20Progress-7FD9B6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B%20%26%20Java-Learning-E8B25C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-Getting%20Started-E8B25C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangChain%20%C2%B7%20RAG%20%C2%B7%20Vector%20DB-Up%20Next-6c757d?style=for-the-badge" />
 </p>
 
 ---
@@ -43,15 +45,9 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A2E2C?style=flat-square&logo=scikitlearn&logoColor=7FD9B6" />
 </p>
 
 ---
@@ -59,9 +55,11 @@
 ### 🏆 Coding Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/humayrasoha" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-humayrasoha-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codeforces-humayrasoha-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+   <a href="https://www.hackerrank.com/profile/humayra_islam_cs" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
+   
 </p>
 
 ---
