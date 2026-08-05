@@ -1,33 +1,108 @@
-<h1 align="center">Hi 👋, I'm Humayra Islam</h1>
-<h3 align="center">A passionate with a strong interest in Machine Learning & Data Science Engineer.</h3>
-<img align="right" alt="coding" width="400" src=https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif>
+<div align="left">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=humayraislamsoha&label=Profile%20views&color=0e75b6&style=flat" alt="humayraislamsoha" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=humayraislamsoha&color=7FD9B6&style=flat-square&label=Profile+Views)
 
+</div>
 
+<div align="center">
 
-- 🌱 I’m currently learning **Python,Java,C & C++**
+<img align="center" alt="coding" width="300" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif" />
 
-- 💬 Ask me about **Python**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=7FD9B6&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Humayra+Islam+%F0%9F%91%8B;Machine+Learning+%26+Data+Science;Aspiring+ML+Engineer+%F0%9F%A7%A0" alt="Typing SVG" />
 
-- 📫 How to reach me **humayraislamsoha@gmail.com**
+</div>
 
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://x.com/humayraislam0#:~:text=humayra%20islam-,%40humayraislam0,-get%20verified" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/humayraislam0#:~:text=humayra%20islam-,%40humayraislam0,-get%20verified" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/humaislam-yra-sohana-241soha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/humaislam-yra-sohana-241soha" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/share/16lvkzrdmq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/share/16lvkzrdmq/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/humayraislamsohana1?igsh=mwryagdoytmzang1oa==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/humayraislamsohana1?igsh=mwryagdoytmzang1oa==" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/humayrasoha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="humayrasoha" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-Data%20Science-C45733?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSE-Student-7FD9B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Python-E8B25C?style=for-the-badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=humayraislamsoha&show_icons=true&locale=en&layout=compact" alt="humayraislamsoha" /></p>
+### 👩‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=humayraislamsoha&show_icons=true&locale=en" alt="humayraislamsoha" /></p>
+- 🎓 CSE student with a passionate interest in **Machine Learning** & **Data Science**
+- 🌱 Currently learning **Python, Java, C, and C++**
+- 💬 Ask me about **Python**
+- ⚡ Fun fact: **I think I am funny**
+- 💬 Always open to collaboration and learning from others in ML/AI
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=humayraislamsoha&" alt="humayraislamsoha" /></p>
+---
+
+### 🔭 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python%20%26%20ML%20Fundamentals-In%20Progress-7FD9B6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/C%20%2F%20C%2B%2B%20%26%20Java-Learning-E8B25C?style=for-the-badge" />
+</p>
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🏆 Coding Profiles
+
+<p align="center">
+  <a href="https://codeforces.com/profile/humayrasoha" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-humayrasoha-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=humayraislamsoha&show_icons=true&theme=dark&hide_border=true&bg_color=0A2E2C&title_color=7FD9B6&icon_color=E8B25C&text_color=F2EFE9" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=humayraislamsoha&theme=dark&hide_border=true&background=0A2E2C&ring=7FD9B6&fire=E8B25C&currStreakLabel=7FD9B6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humayraislamsoha&layout=compact&theme=dark&hide_border=true&bg_color=0A2E2C&title_color=7FD9B6&text_color=F2EFE9" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/humayraislamsoha/humayraislamsoha/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/humayraislamsoha/humayraislamsoha/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/humayraislamsoha/humayraislamsoha/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:humayraislamsoha@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-humayraislamsoha%40gmail.com-E8B25C?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/www.linkedin.com/in/humaislam-yra-sohana-241soha" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/humayraislam0" target="_blank">
+    <img src="https://img.shields.io/badge/X-Profile-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.facebook.com/share/16lvkzrdmq/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/humayraislamsohana1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Profile-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
